@@ -1,0 +1,17 @@
+{
+  "id": "Town_-713,63,386",
+  "name": "Town",
+  "icon": "waypoint-normal.png",
+  "x": -713,
+  "y": 63,
+  "z": 386,
+  "r": 239,
+  "g": 27,
+  "b": 203,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

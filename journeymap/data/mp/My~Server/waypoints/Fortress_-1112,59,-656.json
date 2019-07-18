@@ -1,0 +1,17 @@
+{
+  "id": "Fortress_-1112,59,-656",
+  "name": "Fortress",
+  "icon": "waypoint-normal.png",
+  "x": -1112,
+  "y": 59,
+  "z": -656,
+  "r": 192,
+  "g": 3,
+  "b": 62,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

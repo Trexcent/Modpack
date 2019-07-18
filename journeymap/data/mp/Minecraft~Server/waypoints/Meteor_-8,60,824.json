@@ -1,0 +1,17 @@
+{
+  "id": "Meteor_-8,60,824",
+  "name": "Meteor",
+  "icon": "waypoint-normal.png",
+  "x": -8,
+  "y": 60,
+  "z": 824,
+  "r": 147,
+  "g": 199,
+  "b": 7,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

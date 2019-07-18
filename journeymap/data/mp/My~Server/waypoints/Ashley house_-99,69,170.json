@@ -1,0 +1,17 @@
+{
+  "id": "Ashley house_-99,69,170",
+  "name": "Ashley house",
+  "icon": "waypoint-normal.png",
+  "x": -99,
+  "y": 69,
+  "z": 170,
+  "r": 214,
+  "g": 155,
+  "b": 139,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

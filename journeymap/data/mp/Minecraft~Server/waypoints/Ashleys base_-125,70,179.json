@@ -1,0 +1,17 @@
+{
+  "id": "Ashleys base_-125,70,179",
+  "name": "Ashleys base",
+  "icon": "waypoint-normal.png",
+  "x": -125,
+  "y": 70,
+  "z": 179,
+  "r": 73,
+  "g": 190,
+  "b": 45,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

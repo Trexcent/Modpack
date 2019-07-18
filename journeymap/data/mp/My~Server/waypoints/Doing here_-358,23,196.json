@@ -1,0 +1,17 @@
+{
+  "id": "Doing here_-358,23,196",
+  "name": "Doing here",
+  "icon": "waypoint-normal.png",
+  "x": -358,
+  "y": 23,
+  "z": 196,
+  "r": 46,
+  "g": 4,
+  "b": 102,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

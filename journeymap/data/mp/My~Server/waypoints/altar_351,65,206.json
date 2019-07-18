@@ -1,0 +1,17 @@
+{
+  "id": "altar_351,65,206",
+  "name": "altar",
+  "icon": "waypoint-normal.png",
+  "x": 351,
+  "y": 65,
+  "z": 206,
+  "r": 103,
+  "g": 75,
+  "b": 193,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,1199 @@
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
+Minecraft Coder Pack | mcp
+Forge Mod Loader | FML
+Minecraft Forge | Forge
+AMCore | AM2-Preloader
+Applied Energistics 2 Core | appliedenergistics2-core
+Aroma1997Core | Aroma1997Core
+CodeChicken Core | CodeChickenCore
+Not Enough Items | NotEnoughItems
+Technomancy Core | technomCore
+Thaumic Energistics Core | ThE-core
+Thaumic Tinkerer Core | ThaumicTinkerer-preloader
+Witching Gadgets Core | WitchingGadgetsCore
+CoFH ASM | <CoFH ASM>
+FastCraft | FastCraft
+ComputerCraft | ComputerCraft
+Blood Magic: Alchemical Wizardry | AWWayofTime
+Baubles | Baubles
+Thaumcraft | Thaumcraft
+Botania | Botania
+Waila | Waila
+Forge Multipart | ForgeMultipart
+Applied Energistics 2 | appliedenergistics2
+Thaumic Tinkerer | ThaumicTinkerer
+Forbidden Magic | ForbiddenMagic
+DummyCore | DummyCore
+Thaumic Bases | thaumicbases
+Thaumic Exploration | ThaumicExploration
+Thaumic Horizons | ThaumicHorizons
+CoFH Core | CoFHCore
+Advanced Thaumaturgy | AdvancedThaumaturgy
+AgriCraft | AgriCraft
+AnimationAPI | AnimationAPI
+Ars Magica 2 | arsmagica2
+§aGliby's§f Voice Chat Mod | gvc
+AppleCore | AppleCore
+Arcane Arteries | arcanearteries
+ArchitectureCraft | ArchitectureCraft
+Armourer's Workshop | armourersWorkshop
+Aroma1997Core|Helper | Aroma1997CoreHelper
+AromaBackup | AromaBackup
+AromaBackup Recovery | AromaBackupRecovery
+Phoenixx Anti-Cheat | phoenixx
+Barrier Block | barrierblock
+Better Loading Screen | betterloadingscreen
+Better Rain | betterrain
+Thermal Foundation | ThermalFoundation
+Thermal Expansion | ThermalExpansion
+Big Reactors | BigReactors
+Custom Main Menu | CustomMainMenu
+CosmeticArmorReworked | cosmeticarmorreworked
+CustomNpcs | customnpcs
+EnderCore | endercore
+Ender IO | EnderIO
+EnderTech | EnderTech
+EvilCraft | evilcraft
+Extra Cells 2 | extracells
+Extra Utilities | ExtraUtilities
+Guide-API | guideapi
+iChunUtil | iChunUtil
+Immersive Engineering | ImmersiveEngineering
+Immersive Integration | immersiveintegration
+Inventory Tweaks | inventorytweaks
+Iron Backpacks | qironbackpacks
+Iron Chest | IronChest
+JABBA | JABBA
+JourneyMap | journeymap
+Loot Bags | lootbags
+Mekanism | Mekanism
+Magical Crops | magicalcrops
+Mantle | Mantle
+MekanismGenerators | MekanismGenerators
+MekanismTools | MekanismTools
+MineTweaker 3 | MineTweaker3
+Numina | numina
+p455w0rd's Library | p455w0rdslib
+AE2 Wireless Crafting Terminal | ae2wct
+MachineMuse's Modular Powersuits | powersuits
+Mouse Tweaks | MouseTweaks
+NotEnoughIDs | notenoughIDs
+Pam's HarvestCraft | harvestcraft
+Random Things | RandomThings
+ReAuth | reauth
+libsandstone | libsandstone
+Reliquary | xreliquary
+Resource Loader | ResourceLoader
+RFTools | rftools
+Sanguimancy | Sanguimancy
+Soul Shards: The Old Ways | SSTOW
+Tainted Magic | TaintedMagic
+TC Inventory Scanning | tcinventoryscan
+Tinkers' Construct | TConstruct
+Thaumcraft NEI Plugin | thaumcraftneiplugin
+Thaumic Dyes | thaumicdyes
+Thaumic Energistics | thaumicenergistics
+Thaumic Upholstry | TU
+TiC Tooltips | TiCTooltips
+Traveller's Gear | TravellersGear
+bspkrsCore | bspkrsCore
+Treecapitator | Treecapitator
+Waila Harvestability | WailaHarvestability
+Witchery | witchery
+Witching Gadgets | WitchingGadgets
+Minecraft Multipart Plugin | McMultipart
+Iguana Tinker Tweaks | IguanaTweaksTConstruct
+Technomancy | technom
+Forge Microblocks | ForgeMicroblock
+
+COPY THIS ENTIRE LIST AND PASTE IT IN THE SERVER SIDE ANTI-CHEAT CONFIG:
+mcp,FML,Forge,AM2-Preloader,appliedenergistics2-core,Aroma1997Core,CodeChickenCore,NotEnoughItems,technomCore,ThE-core,ThaumicTinkerer-preloader,WitchingGadgetsCore,<CoFH ASM>,FastCraft,ComputerCraft,AWWayofTime,Baubles,Thaumcraft,Botania,Waila,ForgeMultipart,appliedenergistics2,ThaumicTinkerer,ForbiddenMagic,DummyCore,thaumicbases,ThaumicExploration,ThaumicHorizons,CoFHCore,AdvancedThaumaturgy,AgriCraft,AnimationAPI,arsmagica2,gvc,AppleCore,arcanearteries,ArchitectureCraft,armourersWorkshop,Aroma1997CoreHelper,AromaBackup,AromaBackupRecovery,phoenixx,barrierblock,betterloadingscreen,betterrain,ThermalFoundation,ThermalExpansion,BigReactors,CustomMainMenu,cosmeticarmorreworked,customnpcs,endercore,EnderIO,EnderTech,evilcraft,extracells,ExtraUtilities,guideapi,iChunUtil,ImmersiveEngineering,immersiveintegration,inventorytweaks,qironbackpacks,IronChest,JABBA,journeymap,lootbags,Mekanism,magicalcrops,Mantle,MekanismGenerators,MekanismTools,MineTweaker3,numina,p455w0rdslib,ae2wct,powersuits,MouseTweaks,notenoughIDs,harvestcraft,RandomThings,reauth,libsandstone,xreliquary,ResourceLoader,rftools,Sanguimancy,SSTOW,TaintedMagic,tcinventoryscan,TConstruct,thaumcraftneiplugin,thaumicdyes,thaumicenergistics,TU,TiCTooltips,TravellersGear,bspkrsCore,Treecapitator,WailaHarvestability,witchery,WitchingGadgets,McMultipart,IguanaTweaksTConstruct,technom,ForgeMicroblock
